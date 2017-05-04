@@ -1,9 +1,9 @@
-%  [ ans ] = get( cell, icol, opt0, opt1 )
-%  eg. ans = get( cell, 3, @min, @max )
+%  [ ans ] = do( cell, icol, opt0, opt1 )
+%  eg. ans = do( cell, 3, @min, @max )
 %
 %  对 cell 中的所有数据，计算 opt0( opt1( 指定列 ) )
 
-function [ ans ] = get( cell, icol, opt0, opt1 )
+function [ ans ] = do( cell, icol, opt0, opt1 )
 
     for i = 1 : length(cell)
 
