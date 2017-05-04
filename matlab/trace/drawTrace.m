@@ -1,4 +1,4 @@
-%  [ fig ] = drawTrace( traces, title, line_marker, range )
+%  [ fig ] = drawTrace( traces, title, line_marker, motion_range )
 %  eg. drawTrace(  traces, 'NCSU', '- .', [-10000, -15000, 10000, 5000] )
 %
 %  为给定的轨迹数据集绘制折线图。
@@ -6,12 +6,12 @@
 %  traces - 多个节点的轨迹数据，从 getTrace 函数得到
 %  title - 图表标题；
 %  line_marker - plot 函数中指示线型和标记符号的字符串，如 '- .' / ': +' / '-- *'；
-%  range - 绘制区域的边界，单位为米，可通过 range 函数获取，e.g. [-10000, -15000, 10000, 5000]
+%  motion_range - 绘制区域的边界，单位为米，可通过 motion_range 函数获取，e.g. [-10000, -15000, 10000, 5000]
 
-function [ fig ] = drawTrace( traces, title, line_marker, range )
+function [ fig ] = drawTrace( traces, title, line_marker, motion_range )
 
     figure('outerposition', get(0, 'screensize'), 'name', title);
-    axis(range);
+    axis(motion_range);
     
     colors = colormap(lines);
     column_x = 2;

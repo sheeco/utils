@@ -6,13 +6,13 @@
 %  grain - 将采样点划入的方格边长
 %  normalization - 1 表示返回频率矩阵；0 表示返回频数矩阵
 
-function [ info, hist_mat ] = getHist( traces, grain, normalization)
+function [ info, hist_mat ] = getHist( traces, grain, motion_range, normalization)
 %   Detailed explanation goes here
 
     samples = trace2sample( traces );
 
-    range = num2cell(range);
-    [floor_x, ceil_x, floor_y, ceil_y] = range{:};
+    motion_range = num2cell(motion_range);
+    [floor_x, ceil_x, floor_y, ceil_y] = motion_range{:};
 
     floor_x = floor( floor_x / grain ) * grain;
     ceil_x = ceil( ceil_x / grain ) * grain;

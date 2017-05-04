@@ -1,4 +1,4 @@
-%  [ fig ] = drawHist( traces, title, grain, grain_tick, range, normalization )
+%  [ fig ] = drawHist( traces, title, grain, grain_tick, motion_range, normalization )
 %  eg. drawHist( traces, 'demo', 100, 1000, [-10000, -15000, 10000, 5000], 1 )
 %
 %  按照给定的方格边长，为轨迹数据集统计并绘制三维频数直方图。
@@ -6,10 +6,10 @@
 %  title - 图表标题
 %  grain - 将采样点划入的方格边长
 %  grain_tick - 必须手动指示 y 轴的刻度，e.g. 500, 2000, 5000, ...
-%  range - 绘制区域的边界，单位为米，可通过 range 函数获取，e.g. [-10000, -15000, 10000, 5000]
+%  motion_range - 绘制区域的边界，单位为米，可通过 motion_range 函数获取，e.g. [-10000, -15000, 10000, 5000]
 %  normalization - 1 表示返回频率矩阵；0 表示返回频数矩阵
 
-function [ ret ] = drawHist( traces, title, grain, grain_tick, range, normalization )
+function [ ret ] = drawHist( traces, title, grain, grain_tick, motion_range, normalization )
 %   Detailed explanation goes here
 
     samples = trace2sample( traces );
@@ -17,8 +17,8 @@ function [ ret ] = drawHist( traces, title, grain, grain_tick, range, normalizat
 %     grid_x = ceil( (max(samples_nodes(:,1)) - min(samples_nodes(:,1))) / grain );
 %     grid_y = ceil( (max(samples_nodes(:,2)) - min(samples_nodes(:,2))) / grain );
 
-    range = num2cell(range);
-    [floor_x, ceil_x, floor_y, ceil_y] = range{:};
+    motion_range = num2cell(motion_range);
+    [floor_x, ceil_x, floor_y, ceil_y] = motion_range{:};
 
     floor_x = floor( floor_x / grain ) * grain;
     ceil_x = ceil( ceil_x / grain ) * grain;
