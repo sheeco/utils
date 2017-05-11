@@ -2,19 +2,16 @@
 %  eg. traces = getTrace( 'ans,traces', 0, 0, 9000 )
 %
 %  从工作空间的所有数据中，取出指定节点在指定时间范围内的轨迹数据。
-%  name_exceptions - 要排除在外不进行遍历的变量名称，用逗号分隔，不应有多余空格，e.g. 'ans,info,freq'
+%  vars - 要进行遍历的变量名称，可由 getVars('') 得到
 %  inode - 仅为单个节点统计时的节点下标；0 为不做筛选
 %  time_begin, time_end - 起始、截至时间；0 为不做筛选
 
-function [ ret ] = getTrace( name_exceptions, inode, time_begin, time_end )
+function [ ret ] = getTrace( vars, inode, time_begin, time_end )
 
-    whos = evalin('base','who');
-    whos = removeException(whos, name_exceptions);
-    
     traces = {};
-    for i = 1:length(whos)
+    for i = 1:length(vars)
         
-        mat = evalin('base',  whos{i} );
+        mat = evalin('base',  vars{i} );
 
         rows = findRow( mat(:, 1), time_begin, time_end );
         row_begin = min(rows);

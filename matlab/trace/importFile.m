@@ -6,7 +6,7 @@
 %  format - 导入文件名符合筛选格式的所有文件，如 '*.txt'；
 %  prefix - 导入为矩阵变量时，变量将被命名为 'prefix + 文件名'；
 
-function importFile(path, format, prefix)
+function [vars] = importFile(path, format, prefix)
 
 	files = dir(fullfile(strcat(path, '\\'), format ));
 

@@ -1,5 +1,5 @@
-%  importFile( path, format, prefix )
-%  eg. importFile( 'Statefair', '*.txt', '' )
+%  importTrace( path, format, prefix )
+%  eg. importTrace( 'Statefair', '*.txt', '' )
 %
 %  path - 导入的 .trace 文件的目录名 '/$path/' ；
 %  format - 导入文件名符合筛选格式的所有文件，如 '*.txt'；

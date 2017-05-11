@@ -10,8 +10,8 @@
 
 function [ fig ] = drawTrace( traces, title, line_marker, motion_range )
 
-    figure('outerposition', get(0, 'screensize'), 'name', title);
-    axis(motion_range);
+%     figure('outerposition', get(0, 'screensize'), 'name', title);
+    set(gcf, 'name', title);
     
     colors = colormap(lines);
     column_x = 2;
@@ -27,6 +27,7 @@ function [ fig ] = drawTrace( traces, title, line_marker, motion_range )
     end
 
     fig = gcf;
+    axis(motion_range);
 
 end
 
