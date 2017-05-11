@@ -1,3 +1,5 @@
 # matlab
 
-*data/
+*matlab/*/data/
+
+*matlab/*/fig/
