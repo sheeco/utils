@@ -21,7 +21,8 @@ function [vars] = importFile(path, format, prefix)
 		% matches that from the Import Wizard.
 		[~,name] = fileparts(filename);
 		name = strcat(prefix, name);
-		newData1.(genvarname(name)) = rawData1;
+% 		newData1.(genvarname(name)) = rawData1;
+		newData1.(makeName(name, 1)) = rawData1;
 
 		% Create new variables in the base workspace from those fields.
 		vars = fieldnames(newData1);
