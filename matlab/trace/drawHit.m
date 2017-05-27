@@ -7,8 +7,6 @@
 
 function drawHit( vars, limit, sub_plot )
 
-    deviations = [];
-    
 %     for i = 1:length(vars)
 %         
 %         model = evalin('base', vars{i});
@@ -29,17 +27,28 @@ function drawHit( vars, limit, sub_plot )
         var = vars{ivar};
         model = evalin('base', var);
 
-        column_time = model(:, 1);
-        columns_prediction = model(:, 2:3);
-        columns_fact = model(:, 4:5);
-        columns_difference = columns_prediction - columns_fact;
-        column_deviation = (columns_difference(:, 1).^2 + columns_difference(:, 2).^2).^(1/2);
-        deviations = vertcat(deviations, column_deviation);
+        num_node = (size(model, 2) - 1) / 4;
+        num_node = floor(num_node);
+        deviations = [];
+        
+        for inode = 1:num_node
+            icolumns_prediction = (inode - 1) * 4 + 2;
+            icolumns_prediction = icolumns_prediction : icolumns_prediction + 1;
+            icolumns_fact = icolumns_prediction(end) + 1 : icolumns_prediction(end) + 2;
 
-        rows_hits = find( deviations <= limit );
-        num = length(deviations);
+            columns_prediction = model(:, icolumns_prediction);
+            columns_fact = model(:, icolumns_fact);
 
-        hit_rate = length(rows_hits) / num;
+            columns_difference = columns_prediction - columns_fact;
+            column_deviation = (columns_difference(:, 1).^2 + columns_difference(:, 2).^2).^(1/2);
+            deviations = vertcat(deviations, column_deviation);
+        end
+        
+        rows_hit = find( deviations <= limit );
+        num_hit = length(rows_hit);
+        num_all = length(deviations);
+            
+        hit_rate = num_hit / num_all;
         hit_rate = num2str(hit_rate);
 
         max_ = max(deviations);
@@ -48,7 +57,7 @@ function drawHit( vars, limit, sub_plot )
 
         edges = 0:limit:ceil_;
         N = histc(deviations, edges);
-        N = N / num;
+        N = N / num_all;
 
         varname = makeName(var, 0);
         name = strcat(varname, '-hitrate', hit_rate);
