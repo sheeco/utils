@@ -17,10 +17,17 @@ Audio File: The.Boss.Of.It.All.2006.DVDRiP.480P.x264-Aikke.mp4
 Video File: The.Boss.Of.It.All.2006.DVDRiP.480P.x264-Aikke.mp4
 Video AR Mode: 4
 Video AR Value: 1.779167
+<<<<<<< Updated upstream
 Video Zoom Percent: 1.000000
 Scroll Position: 1658
 Active Line: 1635
 Video Position: 91859
+=======
+Video Zoom Percent: 0.500000
+Scroll Position: 2320
+Active Line: 2342
+Video Position: 153565
+>>>>>>> Stashed changes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1580,7 +1587,7 @@ Dialogue: 0,0:52:21.25,0:52:23.51,Chinese-480P,,0,0,0,,你没有利用我
 Dialogue: 0,0:52:21.25,0:52:23.51,English-480P,,0,0,0,,You didn't manipulate me.
 Dialogue: 0,0:52:24.10,0:52:27.61,Chinese-480P,,0,0,0,,你一向很绅士
 Dialogue: 0,0:52:24.10,0:52:27.61,English-480P,,0,0,0,,You've been quite the gentleman.
-Dialogue: 0,0:52:28.12,0:52:34.12,Chinese-480P,,0,0,0,,即使是在我差点就要跳槽去敌对公司那时
+Dialogue: 0,0:52:28.12,0:52:34.12,Chinese-480P,,0,0,0,,即使我差点跳槽去敌对公司那时也一样
 Dialogue: 0,0:52:28.12,0:52:34.12,English-480P,,0,0,0,,Even when I almost quit to work for our worst competitor.
 Dialogue: 0,0:52:35.11,0:52:38.49,Chinese-480P,,0,0,0,,你痛斥过Ravn几次
 Dialogue: 0,0:52:35.11,0:52:38.49,English-480P,,0,0,0,,You've laid into Ravn a  few times.
@@ -1598,17 +1605,17 @@ Dialogue: 0,0:52:54.45,0:52:57.60,Chinese-480P,,0,0,0,,我没有 但是Gorm有
 Dialogue: 0,0:52:54.45,0:52:57.60,English-480P,,0,0,0,,Not me, but Gorm does.
 Dialogue: 0,0:52:58.78,0:53:00.60,Chinese-480P,,0,0,0,,那次是个严重的打击
 Dialogue: 0,0:52:58.78,0:53:00.60,English-480P,,0,0,0,,That was a serious blow.
-Dialogue: 0,0:53:01.85,0:53:06.63,Chinese-480P,,0,0,0,,你为了Brooker平台那件事否决了他的时候 他很受打击
+Dialogue: 0,0:53:01.85,0:53:06.63,Chinese-480P,,0,0,0,,Brooker平台那件事上 你否决了他的时候 他很受打击
 Dialogue: 0,0:53:01.85,0:53:06.63,English-480P,,0,0,0,,He took it hard when you overruled him on the Brooker platform issue.
-Dialogue: 0,0:53:06.65,0:53:10.25,Chinese-480P,,0,0,0,,他已经在另一个平台上花了两年了
+Dialogue: 0,0:53:06.65,0:53:10.25,Chinese-480P,,0,0,0,,他已经在另一个平台上花了两年
 Dialogue: 0,0:53:06.65,0:53:10.25,English-480P,,0,0,0,,He'd spent two years  on the other platform.
-Dialogue: 0,0:53:10.29,0:53:16.47,Chinese-480P,,0,0,0,,你怎么能在Brooker的事上也发号施令 那是我们的
+Dialogue: 0,0:53:10.29,0:53:16.47,Chinese-480P,,0,0,0,,你怎么能在Brooker的事上发号施令 那是我们的
 Dialogue: 0,0:53:10.29,0:53:16.47,English-480P,,0,0,0,,How can you even dictate things concerning the Brooker? It's ours.
 Dialogue: 0,0:53:17.63,0:53:21.50,Chinese-480P,,0,0,0,,我倒没有 但Nalle有 你太过分了
 Dialogue: 0,0:53:17.63,0:53:21.50,English-480P,,0,0,0,,Not me, but Nalle does. You were out of line.
 Dialogue: 0,0:53:21.61,0:53:24.48,Chinese-480P,,0,0,0,,你说他从来不做准备
 Dialogue: 0,0:53:21.61,0:53:24.48,English-480P,,0,0,0,,You told him he never came prepared.
-Dialogue: 0,0:53:24.51,0:53:28.84,Chinese-480P,,0,0,0,,然后大家都开始说他 你清楚他会失控
+Dialogue: 0,0:53:24.51,0:53:28.84,Chinese-480P,,0,0,0,,然后大家都开始说他 你清楚他会崩溃
 Dialogue: 0,0:53:24.51,0:53:28.84,English-480P,,0,0,0,,Then everyone started in on him. You knew he'd snap.
 Dialogue: 0,0:53:30.51,0:53:34.15,Chinese-480P,,0,0,0,,嗨 我能用英语问你个问题吗
 Dialogue: 0,0:53:30.51,0:53:34.15,English-480P,,0,0,0,,Hi. Can I ask you a question in English?
@@ -1622,9 +1629,9 @@ Dialogue: 0,0:53:45.23,0:53:47.70,Chinese-480P,,0,0,0,,他就不能用英语说�
 Dialogue: 0,0:53:45.23,0:53:47.70,English-480P,,0,0,0,,Couldn't he just gossip in English?
 Dialogue: 0,0:53:48.02,0:53:51.28,Chinese-480P,,0,0,0,,当然能 但他不想
 Dialogue: 0,0:53:48.02,0:53:51.28,English-480P,,0,0,0,,Sure, but he didn't want to.
-Dialogue: 0,0:53:51.36,0:53:56.24,Chinese-480P,,0,0,0,,至于我 除了让我关照Ravn以外 没有
+Dialogue: 0,0:53:51.36,0:53:56.24,Chinese-480P,,0,0,0,,至于我 除了让我关照Ravn以外 没有了
 Dialogue: 0,0:53:51.36,0:53:56.24,English-480P,,0,0,0,,And me... Not apart from making me see to Ravn.
-Dialogue: 0,0:53:56.29,0:53:59.04,Chinese-480P,,0,0,0,,但那也不是对你有利
+Dialogue: 0,0:53:56.29,0:53:59.04,Chinese-480P,,0,0,0,,但那不是为了你的利益
 Dialogue: 0,0:53:56.29,0:53:59.04,English-480P,,0,0,0,,But that didn't benefit you.
 Dialogue: 0,0:54:00.71,0:54:02.35,Chinese-480P,,0,0,0,,Ravn呢
 Dialogue: 0,0:54:00.71,0:54:02.35,English-480P,,0,0,0,,What about Ravn?
@@ -1660,7 +1667,7 @@ Dialogue: 0,0:54:58.19,0:55:04.00,Chinese-480P,,0,0,0,,他求着回来 Ravn讲�
 Dialogue: 0,0:54:58.19,0:55:04.00,English-480P,,0,0,0,,He begged to let him come back. Ravn told us about the letters he sent you.
 Dialogue: 0,0:55:06.69,0:55:11.14,Chinese-480P,,0,0,0,,但我们没他的位置
 Dialogue: 0,0:55:06.69,0:55:11.14,English-480P,,0,0,0,,But we had nothing for the guy.
-Dialogue: 0,0:55:11.16,0:55:13.91,Chinese-480P,,0,0,0,,是 这就是生活
+Dialogue: 0,0:55:11.16,0:55:13.91,Chinese-480P,,0,0,0,,是 生活就是这样
 Dialogue: 0,0:55:11.16,0:55:13.91,English-480P,,0,0,0,,No, that's life.
 Dialogue: 0,0:55:14.68,0:55:19.61,Chinese-480P,,0,0,0,,- 然后现在她就成了可怜的Mette - 她在哪里
 Dialogue: 0,0:55:14.68,0:55:19.61,English-480P,,0,0,0,,- And now she's Poor Mette. - Where is she?
@@ -1696,11 +1703,11 @@ Dialogue: 0,0:57:10.84,0:57:16.10,Chinese-480P,,0,0,0,,他们也最好卖掉 就
 Dialogue: 0,0:57:10.84,0:57:16.10,English-480P,,0,0,0,,they're better off selling, so they're rid of me.
 Dialogue: 0,0:57:16.20,0:57:19.92,Chinese-480P,,0,0,0,,我们得签订代理权
 Dialogue: 0,0:57:16.20,0:57:19.92,English-480P,,0,0,0,,We have to sign the power of attorney.
-Dialogue: 0,0:57:20.48,0:57:24.73,Chinese-480P,,0,0,0,,我规定了底价 这样你就不能卖得更低
+Dialogue: 0,0:57:20.48,0:57:24.73,Chinese-480P,,0,0,0,,我规定了底价 这样你就不能低价卖
 Dialogue: 0,0:57:20.48,0:57:24.73,English-480P,,0,0,0,,I've stipulated a minimum price so you can't sell for less.
 Dialogue: 0,0:57:24.75,0:57:29.31,Chinese-480P,,0,0,0,,Kristoffer不可通过贱卖来愚弄Svend
 Dialogue: 0,0:57:24.75,0:57:29.31,English-480P,,0,0,0,,Kristoffer shouldn't put one over on Svend by selling for a buck.
-Dialogue: 0,0:57:32.82,0:57:36.82,Chinese-480P,,0,0,0,,- 我不该留一份吗 - 要是你坚持的话
+Dialogue: 0,0:57:32.82,0:57:36.82,Chinese-480P,,0,0,0,,- 我不该留一份吗 - 要是你坚持
 Dialogue: 0,0:57:32.82,0:57:36.82,English-480P,,0,0,0,,- Don't I get to keep one? - If you insist.
 Dialogue: 0,0:57:37.12,0:57:39.86,Chinese-480P,,0,0,0,,我不比任何人更好或更坏
 Dialogue: 0,0:57:37.12,0:57:39.86,English-480P,,0,0,0,,I'm no better or worse than anyone else.
@@ -1714,7 +1721,7 @@ Dialogue: 0,0:57:51.08,0:57:55.40,Chinese-480P,,0,0,0,,2亿5千4百万 可不是
 Dialogue: 0,0:57:51.08,0:57:55.40,English-480P,,0,0,0,,254 million. Not exactly peanuts.
 Dialogue: 0,0:57:56.25,0:57:58.42,Chinese-480P,,0,0,0,,斯特林堡也被人误解了
 Dialogue: 0,0:57:56.25,0:57:58.42,English-480P,,0,0,0,,Strindberg was misunderstood, too.
-Dialogue: 0,0:57:59.58,0:58:02.48,Chinese-480P,,0,0,0,,人们总在谈论
+Dialogue: 0,0:57:59.58,0:58:02.48,Chinese-480P,,0,0,0,,人们总在说闲话
 Dialogue: 0,0:57:59.58,0:58:02.48,English-480P,,0,0,0,,People were always talking.
 Dialogue: 0,0:58:02.48,0:58:06.01,Chinese-480P,,0,0,0,,说他把妻子推下了楼梯
 Dialogue: 0,0:58:02.48,0:58:06.01,English-480P,,0,0,0,,They said he pushed his wife down the stairs.
@@ -1722,15 +1729,15 @@ Dialogue: 0,0:58:06.16,0:58:08.97,Chinese-480P,,0,0,0,,- 但他没有 - 当然�
 Dialogue: 0,0:58:06.16,0:58:08.97,English-480P,,0,0,0,,- And he didn't? - Sure.
 Dialogue: 0,0:58:09.05,0:58:12.66,Chinese-480P,,0,0,0,,但这不耽误他是个大作家
 Dialogue: 0,0:58:09.05,0:58:12.66,English-480P,,0,0,0,,But that doesn't make him any less of a writer.
-Dialogue: 0,0:58:28.02,0:58:31.62,Chinese-480P,,0,0,0,,账户号也写在这里了 很方便嘛
+Dialogue: 0,0:58:28.02,0:58:31.62,Chinese-480P,,0,0,0,,账号也写在这里了 很方便嘛
 Dialogue: 0,0:58:28.02,0:58:31.62,English-480P,,0,0,0,,The account number is there, too. Very handy.
-Dialogue: 0,0:58:34.22,0:58:37.64,Chinese-480P,,0,0,0,,这样我们的北欧朋友就不用到处拖着现金了
+Dialogue: 0,0:58:34.22,0:58:37.64,Chinese-480P,,0,0,0,,这样我们的北欧朋友就不用拖着现金到处跑了
 Dialogue: 0,0:58:34.22,0:58:37.64,English-480P,,0,0,0,,So our Nordic friends won't have to lug that cash around.
 Dialogue: 0,0:58:40.89,0:58:45.50,Chinese-480P,,0,0,0,,那不是账号 是价格
 Dialogue: 0,0:58:40.89,0:58:45.50,English-480P,,0,0,0,,It's not the account number. It's the price.
 Dialogue: 0,0:58:46.20,0:58:49.29,Chinese-480P,,0,0,0,,那应该远远足够了
 Dialogue: 0,0:58:46.20,0:58:49.29,English-480P,,0,0,0,,That should more than cover it.
-Dialogue: 0,0:58:52.23,0:58:57.07,Chinese-480P,,0,0,0,,那是你的公司的估值 先生
+Dialogue: 0,0:58:52.23,0:58:57.07,Chinese-480P,,0,0,0,,那是你的公司的估价 先生
 Dialogue: 0,0:58:52.23,0:58:57.07,English-480P,,0,0,0,,That's the estimated value of your company, sir.
 Dialogue: 0,0:58:57.08,0:58:58.41,Chinese-480P,,0,0,0,,我们签字吧
 Dialogue: 0,0:58:57.08,0:58:58.41,English-480P,,0,0,0,,Shall we sign?
@@ -1746,7 +1753,7 @@ Dialogue: 0,0:59:18.70,0:59:21.33,Chinese-480P,,0,0,0,,好的 我完全信任你
 Dialogue: 0,0:59:18.70,0:59:21.33,English-480P,,0,0,0,,Fine. I trust you completely.
 Dialogue: 0,0:59:24.63,0:59:27.21,Chinese-480P,,0,0,0,,员工们会留下的 对吗
 Dialogue: 0,0:59:24.63,0:59:27.21,English-480P,,0,0,0,,The staff will stay on, right?
-Dialogue: 0,0:59:29.04,0:59:30.98,Chinese-480P,,0,0,0,,我们说好的不是这样的
+Dialogue: 0,0:59:29.04,0:59:30.98,Chinese-480P,,0,0,0,,我们说好的不是这样
 Dialogue: 0,0:59:29.04,0:59:30.98,English-480P,,0,0,0,,That's not what we agreed.
 Dialogue: 0,0:59:37.72,0:59:42.86,Chinese-480P,,0,0,0,,{\i1}我们才不会忍受一堆该死的丹麦佬{\i0}
 Dialogue: 0,0:59:37.72,0:59:42.86,English-480P,,0,0,0,,We're not getting stuck with a bunch of fucking Danes.
@@ -1812,15 +1819,15 @@ Dialogue: 0,1:02:20.90,1:02:25.00,Chinese-480P,,0,0,0,,我把手挪开 你就能
 Dialogue: 0,1:02:20.90,1:02:25.00,English-480P,,0,0,0,,I'll move my finger so you can get on with it.
 Dialogue: 0,1:02:25.94,1:02:29.49,Chinese-480P,,0,0,0,,你同意吗 Finnur先生 Ravn先生很有帮助
 Dialogue: 0,1:02:25.94,1:02:29.49,English-480P,,0,0,0,,Don't you agree, Mr. Finnur? Mr. Ravn is very helpful.
-Dialogue: 0,1:02:35.92,1:02:40.06,Chinese-480P,,0,0,0,,{\i1}我才不像你们矫情的丹麦式多愁善感{\i0}
+Dialogue: 0,1:02:35.92,1:02:40.06,Chinese-480P,,0,0,0,,{\i1}我可没有你们哭哭啼啼的丹麦式多愁善感{\i0}
 Dialogue: 0,1:02:35.92,1:02:40.06,English-480P,,0,0,0,,I don't share your soppy Danish sentimentality.
 Dialogue: 0,1:02:42.57,1:02:46.50,Chinese-480P,,0,0,0,,- 就差签字了 - 是的
 Dialogue: 0,1:02:42.57,1:02:46.50,English-480P,,0,0,0,,- All that's left is to sign. - Yes.
 Dialogue: 0,1:02:48.19,1:02:52.85,Chinese-480P,,0,0,0,,给打印合同的律师提个醒
 Dialogue: 0,1:02:48.19,1:02:52.85,English-480P,,0,0,0,,A note to the lawyer who typed up the contract.
-Dialogue: 0,1:02:52.85,1:03:00.47,Chinese-480P,,0,0,0,,把页码放在文字中间是个坏主意
+Dialogue: 0,1:02:52.85,1:03:00.47,Chinese-480P,,0,0,0,,把页码放在文字中央是个坏主意
 Dialogue: 0,1:02:52.85,1:03:00.47,English-480P,,0,0,0,,Putting the page number in the middle of the wording is a bad idea.
-Dialogue: 0,1:03:00.69,1:03:06.05,Chinese-480P,,0,0,0,,我不知道在你们冰岛是怎么干的
+Dialogue: 0,1:03:00.69,1:03:06.05,Chinese-480P,,0,0,0,,我不知道你们冰岛是怎么干的
 Dialogue: 0,1:03:00.69,1:03:06.05,English-480P,,0,0,0,,I don't know how you do things in Iceland...
 Dialogue: 0,1:03:07.45,1:03:09.49,Chinese-480P,,0,0,0,,那不是页码
 Dialogue: 0,1:03:07.45,1:03:09.49,English-480P,,0,0,0,,It's not the page number.
@@ -1830,7 +1837,7 @@ Dialogue: 0,1:03:20.45,1:03:26.49,Chinese-480P,,0,0,0,,我这份上标的居然�
 Dialogue: 0,1:03:20.45,1:03:26.49,English-480P,,0,0,0,,My copy states the ridiculous sum of 254 million.
 Dialogue: 0,1:03:37.29,1:03:40.43,Chinese-480P,,0,0,0,,{\i1}那是我们商量好的 他妈的{\i0}
 Dialogue: 0,1:03:37.29,1:03:40.43,English-480P,,0,0,0,,That's what we agreed on, for fuck's sake.
-Dialogue: 0,1:03:40.44,1:03:45.06,Chinese-480P,,0,0,0,,我不能把毕生心血这样就卖掉 你理解的
+Dialogue: 0,1:03:40.44,1:03:45.06,Chinese-480P,,0,0,0,,我不能把毕生心血这样就卖掉 你懂的
 Dialogue: 0,1:03:40.44,1:03:45.06,English-480P,,0,0,0,,I can't sell my life's work for that. Surely you understand.
 Dialogue: 0,1:03:50.23,1:03:55.96,Chinese-480P,,0,0,0,,{\i1}总裁想把公司卖多少钱{\i0}
 Dialogue: 0,1:03:50.23,1:03:55.96,English-480P,,0,0,0,,How much does the president want for his company?
@@ -1842,7 +1849,7 @@ Dialogue: 0,1:04:06.31,1:04:08.31,Chinese-480P,,0,0,0,,5毛
 Dialogue: 0,1:04:06.31,1:04:08.31,English-480P,,0,0,0,,50 cents.
 Dialogue: 0,1:04:13.93,1:04:16.73,Chinese-480P,,0,0,0,,纯粹是象征性的
 Dialogue: 0,1:04:13.93,1:04:16.73,English-480P,,0,0,0,,It's purely symbolic.
-Dialogue: 0,1:04:16.73,1:04:19.95,Chinese-480P,,0,0,0,,作为一个生意人 我喜欢觉得自己有钱赚
+Dialogue: 0,1:04:16.73,1:04:19.95,Chinese-480P,,0,0,0,,作为一个生意人 我喜欢觉得自己赚到了
 Dialogue: 0,1:04:16.73,1:04:19.95,English-480P,,0,0,0,,As a businessman, I like to feel I have profited.
 Dialogue: 0,1:04:23.63,1:04:28.45,Chinese-480P,,0,0,0,,我们说着自由意志 但其实听从心里的机器
 Dialogue: 0,1:04:23.63,1:04:28.45,English-480P,,0,0,0,,We talk of free will, but we heed the machine within.
@@ -1882,7 +1889,7 @@ Dialogue: 0,1:06:09.62,1:06:14.41,Chinese-480P,,0,0,0,,只等着在一场甘比�
 Dialogue: 0,1:06:09.62,1:06:14.41,English-480P,,0,0,0,,only to be blown to bits in a Gambinian explosion.
 Dialogue: 0,1:06:21.67,1:06:28.30,Chinese-480P,,0,0,0,,{\i1}不幸的是 我们这个小喜剧不是总提到的那个甘比尼写的{\i0}
 Dialogue: 0,1:06:21.67,1:06:28.30,English-480P,,0,0,0,,{\i1}Sadly, the oft-mentioned Gambini did not pen our little comedy.{\i}
-Dialogue: 0,1:06:28.32,1:06:34.82,Chinese-480P,,0,0,0,,{\i1}他的轻蔑会把类型扭曲得认不出来{\i0}
+Dialogue: 0,1:06:28.32,1:06:34.82,Chinese-480P,,0,0,0,,{\i1}他的轻蔑会把类型扭曲得无法辨认{\i0}
 Dialogue: 0,1:06:28.32,1:06:34.82,English-480P,,0,0,0,,{\i1}His contempt would have distorted the genre beyond recognition.{\i}
 Dialogue: 0,1:06:34.83,1:06:38.03,Chinese-480P,,0,0,0,,{\i1}不 我是服从类型的法则的{\i0}
 Dialogue: 0,1:06:34.83,1:06:38.03,English-480P,,0,0,0,,{\i1}No. I obey the laws of the genre.{\i}
@@ -1902,7 +1909,7 @@ Dialogue: 0,1:07:05.61,1:07:09.18,Chinese-480P,,0,0,0,,噢 真的吗 那可是�
 Dialogue: 0,1:07:05.61,1:07:09.18,English-480P,,0,0,0,,Oh, really? It's a lot of money.
 Dialogue: 0,1:07:09.19,1:07:11.01,Chinese-480P,,0,0,0,,你气死我了
 Dialogue: 0,1:07:09.19,1:07:11.01,English-480P,,0,0,0,,You piss me off!
-Dialogue: 0,1:07:21.72,1:07:26.38,Chinese-480P,,0,0,0,,- 我受够你的脾气了 - 你要开除他们
+Dialogue: 0,1:07:21.72,1:07:26.38,Chinese-480P,,0,0,0,,- 你的情绪让我受够了 - 你要开除他们
 Dialogue: 0,1:07:21.72,1:07:26.38,English-480P,,0,0,0,,- I'm sick of your moods.\N- You're firing them.
 Dialogue: 0,1:07:26.38,1:07:30.60,Chinese-480P,,0,0,0,,你故意不说 你要把他们掏空
 Dialogue: 0,1:07:26.38,1:07:30.60,English-480P,,0,0,0,,You neglected to say that. You're robbing them blind.
@@ -2057,7 +2064,7 @@ Dialogue: 0,1:13:23.62,1:13:27.29,Chinese-480P,,0,0,0,,原谅 你说
 Dialogue: 0,1:13:23.62,1:13:27.29,English-480P,,0,0,0,,Forgiveness, you say!
 Dialogue: 0,1:13:27.50,1:13:29.11,Chinese-480P,,0,0,0,,他们永远不会原谅我
 Dialogue: 0,1:13:27.50,1:13:29.11,English-480P,,0,0,0,,They'll never forgive me.
-Dialogue: 0,1:13:29.11,1:13:31.79,Chinese-480P,,0,0,0,,可怜的Mette最严重
+Dialogue: 0,1:13:29.11,1:13:31.79,Chinese-480P,,0,0,0,,可怜的Mette最糟糕
 Dialogue: 0,1:13:29.11,1:13:31.79,English-480P,,0,0,0,,Poor Mette is the worst.
 Dialogue: 0,1:13:31.80,1:13:35.59,Chinese-480P,,0,0,0,,我说什么对她都不够
 Dialogue: 0,1:13:31.80,1:13:35.59,English-480P,,0,0,0,,Nothing I say is good enough for that girl.
@@ -2079,7 +2086,7 @@ Dialogue: 0,1:13:59.14,1:14:01.28,Chinese-480P,,0,0,0,,我不是那个意思
 Dialogue: 0,1:13:59.14,1:14:01.28,English-480P,,0,0,0,,That's not what I meant.
 Dialogue: 0,1:14:01.43,1:14:04.40,Chinese-480P,,0,0,0,,为什么合同上不说
 Dialogue: 0,1:14:01.43,1:14:04.40,English-480P,,0,0,0,,Why didn't the contract say so?
-Dialogue: 0,1:14:05.78,1:14:11.05,Chinese-480P,,0,0,0,,你的不幸 法律是极其精确的学科
+Dialogue: 0,1:14:05.78,1:14:11.05,Chinese-480P,,0,0,0,,真不幸 法律是极其精确的学科
 Dialogue: 0,1:14:05.78,1:14:11.05,English-480P,,0,0,0,,Unfortunately for you,law is an extremely exact science.
 Dialogue: 0,1:14:11.05,1:14:14.61,Chinese-480P,,0,0,0,,因此我要求
 Dialogue: 0,1:14:11.05,1:14:14.61,English-480P,,0,0,0,,And therefore I demand
@@ -2087,7 +2094,7 @@ Dialogue: 0,1:14:14.92,1:14:19.25,Chinese-480P,,0,0,0,,你尊重你签的合同 
 Dialogue: 0,1:14:14.92,1:14:19.25,English-480P,,0,0,0,,that you honor the contracts you have signed, and sell.
 Dialogue: 0,1:14:19.25,1:14:22.27,Chinese-480P,,0,0,0,,我跟Finnur安排了最后一次会面
 Dialogue: 0,1:14:19.25,1:14:22.27,English-480P,,0,0,0,,I've set up one last meeting with Finnur.
-Dialogue: 0,1:14:22.28,1:14:26.55,Chinese-480P,,0,0,0,,你不想露面来上班
+Dialogue: 0,1:14:22.28,1:14:26.55,Chinese-480P,,0,0,0,,你不想到公司露面
 Dialogue: 0,1:14:22.28,1:14:26.55,English-480P,,0,0,0,,You don't want to show your face at work.
 Dialogue: 0,1:14:26.55,1:14:30.27,Chinese-480P,,0,0,0,,所以我告诉他们你在美国
 Dialogue: 0,1:14:26.55,1:14:30.27,English-480P,,0,0,0,,So I've told them you're in the States
@@ -2099,7 +2106,7 @@ Dialogue: 0,1:14:49.01,1:14:51.32,Chinese-480P,,0,0,0,,在外面
 Dialogue: 0,1:14:49.01,1:14:51.32,English-480P,,0,0,0,,On neutral ground.
 Dialogue: 0,1:15:03.16,1:15:04.20,Chinese-480P,,0,0,0,,嗯
 Dialogue: 0,1:15:03.16,1:15:04.20,English-480P,,0,0,0,,Mm!
-Dialogue: 0,1:15:05.29,1:15:10.00,Chinese-480P,,0,0,0,,法律上 你动不了他 他抓住你了
+Dialogue: 0,1:15:05.29,1:15:10.00,Chinese-480P,,0,0,0,,法律上 你动不了他 他抓到你了
 Dialogue: 0,1:15:05.29,1:15:10.00,English-480P,,0,0,0,,Legally, you can't touch him. He's got you.
 Dialogue: 0,1:15:10.00,1:15:11.37,Chinese-480P,,0,0,0,,你不得不卖
 Dialogue: 0,1:15:10.00,1:15:11.37,English-480P,,0,0,0,,You have to sell.
@@ -2107,15 +2114,15 @@ Dialogue: 0,1:15:11.37,1:15:16.87,Chinese-480P,,0,0,0,,- 真是悲哀 - 是啊
 Dialogue: 0,1:15:11.37,1:15:16.87,English-480P,,0,0,0,,- It's a total downer. - Yes.
 Dialogue: 0,1:15:16.87,1:15:20.29,Chinese-480P,,0,0,0,,但他差点就坦白了 对吗
 Dialogue: 0,1:15:16.87,1:15:20.29,English-480P,,0,0,0,,But he almost confessed, right?
-Dialogue: 0,1:15:20.33,1:15:23.76,Chinese-480P,,0,0,0,,你有种存心在精神上折磨别人的本事
+Dialogue: 0,1:15:20.33,1:15:23.76,Chinese-480P,,0,0,0,,在存心精神折磨别人这方面 你有点本事
 Dialogue: 0,1:15:20.33,1:15:23.76,English-480P,,0,0,0,,You have a knack for deliberate mental cruelty.
 Dialogue: 0,1:15:25.65,1:15:26.90,Chinese-480P,,0,0,0,,你说得对
 Dialogue: 0,1:15:25.65,1:15:26.90,English-480P,,0,0,0,,You're right.
-Dialogue: 0,1:15:28.01,1:15:32.46,Chinese-480P,,0,0,0,,但我更擅长无心地惹恼别人
+Dialogue: 0,1:15:28.01,1:15:32.46,Chinese-480P,,0,0,0,,但是无心地惹恼别人 我更在行
 Dialogue: 0,1:15:28.01,1:15:32.46,English-480P,,0,0,0,,But I'm better at being irritating on an intuitive level.
 Dialogue: 0,1:15:32.46,1:15:34.51,Chinese-480P,,0,0,0,,他最怕的是什么
 Dialogue: 0,1:15:32.46,1:15:34.51,English-480P,,0,0,0,,What's his greatest fear?
-Dialogue: 0,1:15:36.61,1:15:40.47,Chinese-480P,,0,0,0,,没人爱 这就是一切的关键
+Dialogue: 0,1:15:36.61,1:15:40.47,Chinese-480P,,0,0,0,,没人爱 一切的关键都在于此
 Dialogue: 0,1:15:36.61,1:15:40.47,English-480P,,0,0,0,,Not being loved. That's what it's all about.
 Dialogue: 0,1:15:40.47,1:15:43.22,Chinese-480P,,0,0,0,,他想做一个
 Dialogue: 0,1:15:40.47,1:15:43.22,English-480P,,0,0,0,,He wants to be the...
@@ -2131,21 +2138,21 @@ Dialogue: 0,1:16:06.00,1:16:07.81,Chinese-480P,,0,0,0,,早上好
 Dialogue: 0,1:16:06.00,1:16:07.81,English-480P,,0,0,0,,Good morning.
 Dialogue: 0,1:16:09.41,1:16:11.02,Chinese-480P,,0,0,0,,你好呀
 Dialogue: 0,1:16:09.41,1:16:11.02,English-480P,,0,0,0,,Hello there.
-Dialogue: 0,1:16:27.67,1:16:30.91,Chinese-480P,,0,0,0,,你们这儿有位置给我这个小不点吗
+Dialogue: 0,1:16:27.67,1:16:30.91,Chinese-480P,,0,0,0,,还有我这个小不点的位置吗
 Dialogue: 0,1:16:27.67,1:16:30.91,English-480P,,0,0,0,,Do you have room for tiny little me?
 Dialogue: 0,1:16:35.30,1:16:37.14,Chinese-480P,,0,0,0,,Ravn
 Dialogue: 0,1:16:35.30,1:16:37.14,English-480P,,0,0,0,,Ravn!
 Dialogue: 0,1:16:37.25,1:16:38.91,Chinese-480P,,0,0,0,,来和我们一起
 Dialogue: 0,1:16:37.25,1:16:38.91,English-480P,,0,0,0,,Won't you join us?
-Dialogue: 0,1:16:39.20,1:16:41.54,Chinese-480P,,0,0,0,,越多越开心
+Dialogue: 0,1:16:39.20,1:16:41.54,Chinese-480P,,0,0,0,,人越多越开心
 Dialogue: 0,1:16:39.20,1:16:41.54,English-480P,,0,0,0,,The more the merrier.
 Dialogue: 0,1:16:42.09,1:16:44.71,Chinese-480P,,0,0,0,,- 我们以为你在美国 - 是的
 Dialogue: 0,1:16:42.09,1:16:44.71,English-480P,,0,0,0,,- We thought you were in the States. - Yes.
 Dialogue: 0,1:16:44.75,1:16:46.46,Chinese-480P,,0,0,0,,我本该在
 Dialogue: 0,1:16:44.75,1:16:46.46,English-480P,,0,0,0,,I was supposed to be.
-Dialogue: 0,1:16:46.47,1:16:50.28,Chinese-480P,,0,0,0,,但我尊敬的美国朋友随时都能见
+Dialogue: 0,1:16:46.47,1:16:50.28,Chinese-480P,,0,0,0,,但我贵重的美国朋友随时都能见
 Dialogue: 0,1:16:46.47,1:16:50.28,English-480P,,0,0,0,,But I can see my valued U.S. buddies any time.
-Dialogue: 0,1:16:50.71,1:16:54.60,Chinese-480P,,0,0,0,,但我最宝贵的朋友们
+Dialogue: 0,1:16:50.71,1:16:54.60,Chinese-480P,,0,0,0,,可是我无价的朋友们
 Dialogue: 0,1:16:50.71,1:16:54.60,English-480P,,0,0,0,,But my most invaluable friends...
 Dialogue: 0,1:16:55.12,1:16:56.56,Chinese-480P,,0,0,0,,我只有
 Dialogue: 0,1:16:55.12,1:16:56.56,English-480P,,0,0,0,,I have only
@@ -2153,13 +2160,13 @@ Dialogue: 0,1:16:57.45,1:16:59.01,Chinese-480P,,0,0,0,,两天可见了
 Dialogue: 0,1:16:57.45,1:16:59.01,English-480P,,0,0,0,,two more days with.
 Dialogue: 0,1:16:59.07,1:17:01.41,Chinese-480P,,0,0,0,,- 对吗Ravn - 对
 Dialogue: 0,1:16:59.07,1:17:01.41,English-480P,,0,0,0,,- Right, Ravn? - Yes.
-Dialogue: 0,1:17:02.86,1:17:06.03,Chinese-480P,,0,0,0,,在家庭的怀抱中还有两天了
+Dialogue: 0,1:17:02.86,1:17:06.03,Chinese-480P,,0,0,0,,在家的怀抱中还有两天了
 Dialogue: 0,1:17:02.86,1:17:06.03,English-480P,,0,0,0,,Two more days in the bosom of the family.
 Dialogue: 0,1:17:08.06,1:17:11.10,Chinese-480P,,0,0,0,,- 秋天真是个气象学噩耗 - 是的
 Dialogue: 0,1:17:08.06,1:17:11.10,English-480P,,0,0,0,,- Autumn is a meteorological bombshell. - Yes.
 Dialogue: 0,1:17:11.14,1:17:16.11,Chinese-480P,,0,0,0,,说到噩耗 我有点事要坦白
 Dialogue: 0,1:17:11.14,1:17:16.11,English-480P,,0,0,0,,Speaking of bombshells, I have a confession to make.
-Dialogue: 0,1:17:16.41,1:17:20.41,Chinese-480P,,0,0,0,,上一次搞得有点激烈了
+Dialogue: 0,1:17:16.41,1:17:20.41,Chinese-480P,,0,0,0,,上一次搞得有点激烈
 Dialogue: 0,1:17:16.41,1:17:20.41,English-480P,,0,0,0,,Things got a bit heated last time.
 Dialogue: 0,1:17:20.41,1:17:24.62,Chinese-480P,,0,0,0,,但等我告诉你们 我其实是为什么才来
 Dialogue: 0,1:17:20.41,1:17:24.62,English-480P,,0,0,0,,But when I tell you why I really came,
@@ -2175,13 +2182,13 @@ Dialogue: 0,1:17:41.07,1:17:42.42,Chinese-480P,,0,0,0,,这下可好多了
 Dialogue: 0,1:17:41.07,1:17:42.42,English-480P,,0,0,0,,That makes everything much better.
 Dialogue: 0,1:17:42.42,1:17:45.19,Chinese-480P,,0,0,0,,哇 谢了 我们原谅你
 Dialogue: 0,1:17:42.42,1:17:45.19,English-480P,,0,0,0,,Gee, thanks, we forgive you.
-Dialogue: 0,1:17:45.20,1:17:46.67,Chinese-480P,,0,0,0,,我不是单独行动来着
+Dialogue: 0,1:17:45.20,1:17:46.67,Chinese-480P,,0,0,0,,我不是在唱独角戏
 Dialogue: 0,1:17:45.20,1:17:46.67,English-480P,,0,0,0,,I haven't been acting alone.
-Dialogue: 0,1:17:46.80,1:17:51.56,Chinese-480P,,0,0,0,,有人在后台
+Dialogue: 0,1:17:46.80,1:17:51.56,Chinese-480P,,0,0,0,,后台还有人在
 Dialogue: 0,1:17:46.80,1:17:51.56,English-480P,,0,0,0,,There has been someone in the wings.
 Dialogue: 0,1:17:51.57,1:17:58.69,Chinese-480P,,0,0,0,,这个人应当走到台前了
 Dialogue: 0,1:17:51.57,1:17:58.69,English-480P,,0,0,0,,This person deserves to be brought out into the light.
-Dialogue: 0,1:17:59.12,1:18:02.35,Chinese-480P,,0,0,0,,在在我上面的人
+Dialogue: 0,1:17:59.12,1:18:02.35,Chinese-480P,,0,0,0,,这个人在我上面
 Dialogue: 0,1:17:59.12,1:18:02.35,English-480P,,0,0,0,,It's someone above me.
 Dialogue: 0,1:18:02.36,1:18:05.15,Chinese-480P,,0,0,0,,我的上司 我的老板
 Dialogue: 0,1:18:02.36,1:18:05.15,English-480P,,0,0,0,,My superior, my boss.
@@ -2201,7 +2208,7 @@ Dialogue: 0,1:18:27.72,1:18:28.71,Chinese-480P,,0,0,0,,不
 Dialogue: 0,1:18:27.72,1:18:28.71,English-480P,,0,0,0,,No.
 Dialogue: 0,1:18:29.80,1:18:33.74,Chinese-480P,,0,0,0,,所以这个大大老板在哪里
 Dialogue: 0,1:18:29.80,1:18:33.74,English-480P,,0,0,0,,So where is this boss of the boss of it all?
-Dialogue: 0,1:18:33.83,1:18:37.62,Chinese-480P,,0,0,0,,在美国 毫不意外
+Dialogue: 0,1:18:33.83,1:18:37.62,Chinese-480P,,0,0,0,,在美国 不出意料
 Dialogue: 0,1:18:33.83,1:18:37.62,English-480P,,0,0,0,,In America. No surprise there.
 Dialogue: 0,1:18:39.60,1:18:44.03,Chinese-480P,,0,0,0,,所以你不是做决定的那个真的老板
 Dialogue: 0,1:18:39.60,1:18:44.03,English-480P,,0,0,0,,So you're not the real boss who makes the decisions?
@@ -2213,11 +2220,11 @@ Dialogue: 0,1:18:55.91,1:18:58.48,Chinese-480P,,0,0,0,,找个新对象了
 Dialogue: 0,1:18:55.91,1:18:58.48,English-480P,,0,0,0,,find a new target.
 Dialogue: 0,1:19:01.18,1:19:03.32,Chinese-480P,,0,0,0,,听到这个我很高兴
 Dialogue: 0,1:19:01.18,1:19:03.32,English-480P,,0,0,0,,I'm glad to hear it.
-Dialogue: 0,1:19:10.30,1:19:12.16,Chinese-480P,,0,0,0,,你还不错 Svend
+Dialogue: 0,1:19:10.30,1:19:12.16,Chinese-480P,,0,0,0,,你还行 Svend
 Dialogue: 0,1:19:10.30,1:19:12.16,English-480P,,0,0,0,,You're all right, Svend.
 Dialogue: 0,1:19:12.56,1:19:14.68,Chinese-480P,,0,0,0,,我一下就看出来了
 Dialogue: 0,1:19:12.56,1:19:14.68,English-480P,,0,0,0,,I could tell right away.
-Dialogue: 0,1:19:14.70,1:19:18.84,Chinese-480P,,0,0,0,,这种事我们乡下人清楚
+Dialogue: 0,1:19:14.70,1:19:18.84,Chinese-480P,,0,0,0,,这种事我们乡下人最清楚
 Dialogue: 0,1:19:14.70,1:19:18.84,English-480P,,0,0,0,,We hicks have to know these things.
 Dialogue: 0,1:19:18.87,1:19:24.53,Chinese-480P,,0,0,0,,作为老板的代表
 Dialogue: 0,1:19:18.87,1:19:24.53,English-480P,,0,0,0,,As the boss' representative,
@@ -2229,7 +2236,7 @@ Dialogue: 0,1:19:36.90,1:19:38.89,Chinese-480P,,0,0,0,,你没法不爱他 对吧
 Dialogue: 0,1:19:36.90,1:19:38.89,English-480P,,0,0,0,,You can't help loving him, right?
 Dialogue: 0,1:19:42.09,1:19:45.89,Chinese-480P,,0,0,0,,还有为了进一步鼓舞士气
 Dialogue: 0,1:19:42.09,1:19:45.89,English-480P,,0,0,0,,And to raise our spirits even more...
-Dialogue: 0,1:19:45.96,1:19:49.93,Chinese-480P,,0,0,0,,到库伦的全体出游定在明天
+Dialogue: 0,1:19:45.96,1:19:49.93,Chinese-480P,,0,0,0,,到库伦的全体出游 就定在明天
 Dialogue: 0,1:19:45.96,1:19:49.93,English-480P,,0,0,0,,The staff outing to Kullen  is set for tomorrow.
 Dialogue: 0,1:19:50.91,1:19:54.94,Chinese-480P,,0,0,0,,- 太好了 - 我们一起开心一下
 Dialogue: 0,1:19:50.91,1:19:54.94,English-480P,,0,0,0,,- Great! - Let's have one fun day together.
@@ -2278,7 +2285,7 @@ Dialogue: 0,1:21:53.12,1:21:56.22,Chinese-480P,,0,0,0,,我们最亲爱的新朋�
 Dialogue: 0,1:21:53.12,1:21:56.22,English-480P,,0,0,0,,Our new-found dearest friend
 Dialogue: 0,1:21:56.50,1:21:58.11,Chinese-480P,,0,0,0,,Svend
 Dialogue: 0,1:21:56.50,1:21:58.11,English-480P,,0,0,0,,Svend
-Dialogue: 0,1:21:58.12,1:22:02.61,Chinese-480P,,0,0,0,,十次中有十一次
+Dialogue: 0,1:21:58.12,1:22:02.61,Chinese-480P,,0,0,0,,十分之十一
 Dialogue: 0,1:21:58.12,1:22:02.61,English-480P,,0,0,0,,Eleven out of ten
 Dialogue: 0,1:22:03.12,1:22:06.84,Chinese-480P,,0,0,0,,Svend Svend Svend
 Dialogue: 0,1:22:03.12,1:22:06.84,English-480P,,0,0,0,,Svend, Svend, Svend
@@ -2302,7 +2309,7 @@ Dialogue: 0,1:22:50.41,1:22:52.35,Chinese-480P,,0,0,0,,所以你需要的是老�
 Dialogue: 0,1:22:50.41,1:22:52.35,English-480P,,0,0,0,,So you need corny theater.
 Dialogue: 0,1:22:52.57,1:22:54.70,Chinese-480P,,0,0,0,,你之前还不够低级
 Dialogue: 0,1:22:52.57,1:22:54.70,English-480P,,0,0,0,,You haven't been aiming low enough.
-Dialogue: 0,1:22:55.75,1:22:58.31,Chinese-480P,,0,0,0,,客厅剧务实主义 多愁善感
+Dialogue: 0,1:22:55.75,1:22:58.31,Chinese-480P,,0,0,0,,客厅剧式的务实主义 多愁善感
 Dialogue: 0,1:22:55.75,1:22:58.31,English-480P,,0,0,0,,Living-room realism, sentimentality...
 Dialogue: 0,1:22:58.32,1:22:59.19,Chinese-480P,,0,0,0,,陈词滥调
 Dialogue: 0,1:22:58.32,1:22:59.19,English-480P,,0,0,0,,Clichés.
@@ -2347,21 +2354,21 @@ Dialogue: 0,1:24:26.42,1:24:28.92,Chinese-480P,,0,0,0,,我会改正 对不起
 Dialogue: 0,1:24:26.42,1:24:28.92,English-480P,,0,0,0,,I'll correct them. Sorry.
 Dialogue: 0,1:24:29.19,1:24:31.02,Chinese-480P,,0,0,0,,说点话
 Dialogue: 0,1:24:29.19,1:24:31.02,English-480P,,0,0,0,,...a message.
-Dialogue: 0,1:24:31.02,1:24:35.62,Chinese-480P,,0,0,0,,在Titi姨妈和Carl姨父的婚礼上
+Dialogue: 0,1:24:31.02,1:24:35.62,Chinese-480P,,0,0,0,,Titi姨妈和Carl姨父在、婚礼上
 Dialogue: 0,1:24:31.02,1:24:35.62,English-480P,,0,0,0,,At Aunt Titty and Uncle Carl's wedding anniversary...
-Dialogue: 0,1:24:35.77,1:24:37.81,Chinese-480P,,0,0,0,,礼金存入了一个旧袜子里
+Dialogue: 0,1:24:35.77,1:24:37.81,Chinese-480P,,0,0,0,,把礼物收藏到一个旧袜子里
 Dialogue: 0,1:24:35.77,1:24:37.81,English-480P,,0,0,0,,a collection was made in an old sock.
-Dialogue: 0,1:24:41.02,1:24:44.41,Chinese-480P,,0,0,0,,但我们一直存入了每一天 整整十年
+Dialogue: 0,1:24:41.02,1:24:44.41,Chinese-480P,,0,0,0,,但我们每一天都在收藏 整整十年
 Dialogue: 0,1:24:41.02,1:24:44.41,English-480P,,0,0,0,,But here we've been collecting every single day for ten years.
 Dialogue: 0,1:24:47.38,1:24:48.50,Chinese-480P,,0,0,0,,就在这里
 Dialogue: 0,1:24:47.38,1:24:48.50,English-480P,,0,0,0,,Right here.
-Dialogue: 0,1:24:50.69,1:24:55.36,Chinese-480P,,0,0,0,,等到了Titi姨妈和Carl姨父
+Dialogue: 0,1:24:50.69,1:24:55.36,Chinese-480P,,0,0,0,,某天Titi姨妈和Carl姨父迎来了
 Dialogue: 0,1:24:50.69,1:24:55.36,English-480P,,0,0,0,,The day came for Aunt Titty and Uncle Carl,
-Dialogue: 0,1:24:55.38,1:24:57.97,Chinese-480P,,0,0,0,,就像我们一样
+Dialogue: 0,1:24:55.38,1:24:57.97,Chinese-480P,,0,0,0,,我们亦将如此
 Dialogue: 0,1:24:55.38,1:24:57.97,English-480P,,0,0,0,,as it will for us,
-Dialogue: 0,1:24:58.52,1:24:59.91,Chinese-480P,,0,0,0,,他们的派对结束的时候
+Dialogue: 0,1:24:58.52,1:24:59.91,Chinese-480P,,0,0,0,,那欢宴结束的时刻
 Dialogue: 0,1:24:58.52,1:24:59.91,English-480P,,0,0,0,,when the party is over.
-Dialogue: 0,1:25:01.45,1:25:05.70,Chinese-480P,,0,0,0,,有天早晨醒来 伸出手
+Dialogue: 0,1:25:01.45,1:25:05.70,Chinese-480P,,0,0,0,,某个早晨睡醒 伸出手来
 Dialogue: 0,1:25:01.45,1:25:05.70,English-480P,,0,0,0,,We wake up one morning and put out our hands...
 Dialogue: 0,1:25:08.31,1:25:10.62,Chinese-480P,,0,0,0,,抓到的
 Dialogue: 0,1:25:08.31,1:25:10.62,English-480P,,0,0,0,,...and all we grasp
@@ -2375,9 +2382,9 @@ Dialogue: 0,1:25:19.80,1:25:21.51,Chinese-480P,,0,0,0,,而我们彼此
 Dialogue: 0,1:25:19.80,1:25:21.51,English-480P,,0,0,0,,and the two of us,
 Dialogue: 0,1:25:21.96,1:25:23.93,Chinese-480P,,0,0,0,,这三者
 Dialogue: 0,1:25:21.96,1:25:23.93,English-480P,,0,0,0,,these three people
-Dialogue: 0,1:25:23.93,1:25:26.50,Chinese-480P,,0,0,0,,就仅仅只是一段史诗
+Dialogue: 0,1:25:23.93,1:25:26.50,Chinese-480P,,0,0,0,,徒留一段传奇
 Dialogue: 0,1:25:23.93,1:25:26.50,English-480P,,0,0,0,,are but a saga.
-Dialogue: 0,1:25:32.10,1:25:34.73,Chinese-480P,,0,0,0,,你 曾是我的生命的那个人
+Dialogue: 0,1:25:32.10,1:25:34.73,Chinese-480P,,0,0,0,,你 这个人曾是我的生命
 Dialogue: 0,1:25:32.10,1:25:34.73,English-480P,,0,0,0,,You, who were once my very life,
 Dialogue: 0,1:25:36.71,1:25:38.59,Chinese-480P,,0,0,0,,而我 对你也曾如此
 Dialogue: 0,1:25:36.71,1:25:38.59,English-480P,,0,0,0,,and I, who was once yours,
@@ -2403,7 +2410,7 @@ Dialogue: 0,1:26:14.81,1:26:16.92,Chinese-480P,,0,0,0,,你团结了我们
 Dialogue: 0,1:26:14.81,1:26:16.92,English-480P,,0,0,0,,You brought us together.
 Dialogue: 0,1:26:17.08,1:26:20.56,Chinese-480P,,0,0,0,,你无私地给出你的爱
 Dialogue: 0,1:26:17.08,1:26:20.56,English-480P,,0,0,0,,You gave generously of your love.
-Dialogue: 0,1:26:23.57,1:26:25.91,Chinese-480P,,0,0,0,,而现在你要走了
+Dialogue: 0,1:26:23.57,1:26:25.91,Chinese-480P,,0,0,0,,而现在你要离开了
 Dialogue: 0,1:26:23.57,1:26:25.91,English-480P,,0,0,0,,And now you're going away...
 Dialogue: 0,1:26:26.24,1:26:27.62,Chinese-480P,,0,0,0,,就像海里的泡沫
 Dialogue: 0,1:26:26.24,1:26:27.62,English-480P,,0,0,0,,like bubbles in the bay.
@@ -2415,23 +2422,23 @@ Dialogue: 0,1:26:34.81,1:26:37.47,Chinese-480P,,0,0,0,,不管失意还是得意
 Dialogue: 0,1:26:34.81,1:26:37.47,English-480P,,0,0,0,,Whether begging or biting,
 Dialogue: 0,1:26:37.47,1:26:39.42,Chinese-480P,,0,0,0,,不管咫尺还是天涯
 Dialogue: 0,1:26:37.47,1:26:39.42,English-480P,,0,0,0,,Whether near or far,
-Dialogue: 0,1:26:39.55,1:26:40.81,Chinese-480P,,0,0,0,,你的家将永远
+Dialogue: 0,1:26:39.55,1:26:40.81,Chinese-480P,,0,0,0,,我们的心里
 Dialogue: 0,1:26:39.55,1:26:40.81,English-480P,,0,0,0,,your home will always be
-Dialogue: 0,1:26:43.44,1:26:45.61,Chinese-480P,,0,0,0,,在我们心里
+Dialogue: 0,1:26:43.44,1:26:45.61,Chinese-480P,,0,0,0,,是你永远的家
 Dialogue: 0,1:26:43.44,1:26:45.61,English-480P,,0,0,0,,in our hearts,
-Dialogue: 0,1:26:45.70,1:26:47.42,Chinese-480P,,0,0,0,,这个绿洲
-Dialogue: 0,1:26:45.70,1:26:47.42,English-480P,,0,0,0,, in this green and pleasant land.
+Dialogue: 0,1:26:45.70,1:26:47.42,Chinese-480P,,0,0,0,,这片绿洲
+Dialogue: 0,1:26:45.70,1:26:47.42,English-480P,,0,0,0,,in this green and pleasant land.
 Dialogue: 0,1:26:48.61,1:26:52.81,Chinese-480P,,0,0,0,,总是 我们总是有你在
 Dialogue: 0,1:26:48.61,1:26:52.81,English-480P,,0,0,0,,Always. You were always there for us.
-Dialogue: 0,1:26:53.04,1:26:57.01,Chinese-480P,,0,0,0,,但是他妈的 你又有谁
+Dialogue: 0,1:26:53.04,1:26:57.01,Chinese-480P,,0,0,0,,但是 他妈的 你有谁呢
 Dialogue: 0,1:26:53.04,1:26:57.01,English-480P,,0,0,0,,But, dammit, who was there for you?
-Dialogue: 0,1:26:57.15,1:27:03.35,Chinese-480P,,0,0,0,,记着 在燕子在屋檐下叽喳的此时
+Dialogue: 0,1:26:57.15,1:27:03.35,Chinese-480P,,0,0,0,,记着 在燕子在屋檐下叽喳的此刻
 Dialogue: 0,1:26:57.15,1:27:03.35,English-480P,,0,0,0,,And know this, as the swallow twittered beneath the eaves,
 Dialogue: 0,1:27:03.38,1:27:06.65,Chinese-480P,,0,0,0,,这是再见 不是永别
 Dialogue: 0,1:27:03.38,1:27:06.65,English-480P,,0,0,0,,this is not adieu, but au revoir!
 Dialogue: 0,1:27:28.47,1:27:33.55,Chinese-480P,,0,0,0,,{\i1}感谢你的话 但愿说完了{\i0}
 Dialogue: 0,1:27:28.47,1:27:33.55,English-480P,,0,0,0,,Thanks for your words. May they be the last.
-Dialogue: 0,1:27:41.84,1:27:45.80,Chinese-480P,,0,0,0,,{\i1}感谢矫情得这么肉麻{\i0}
+Dialogue: 0,1:27:41.84,1:27:45.80,Chinese-480P,,0,0,0,,{\i1}感谢你多愁善感得如此肉麻{\i0}
 Dialogue: 0,1:27:41.84,1:27:45.80,English-480P,,0,0,0,,Thanks for sentimentality so nauseating
 Dialogue: 0,1:27:45.81,1:27:49.60,Chinese-480P,,0,0,0,,{\i1}以至于任何生物都不可能当真{\i0}
 Dialogue: 0,1:27:45.81,1:27:49.60,English-480P,,0,0,0,,that no living creature could possibly take it seriously.
@@ -2467,7 +2474,7 @@ Dialogue: 0,1:29:41.43,1:29:44.02,Chinese-480P,,0,0,0,,真有那么难讲吗
 Dialogue: 0,1:29:41.43,1:29:44.02,English-480P,,0,0,0,,Was it really so hard to say?
 Dialogue: 0,1:29:47.97,1:29:50.81,Chinese-480P,,0,0,0,,我一直都知道你就是老板
 Dialogue: 0,1:29:47.97,1:29:50.81,English-480P,,0,0,0,,I always knew you were the boss.
-Dialogue: 0,1:29:52.29,1:29:55.01,Chinese-480P,,0,0,0,,你真是傻才会看不出来
+Dialogue: 0,1:29:52.29,1:29:55.01,Chinese-480P,,0,0,0,,你得多傻才会看不出来
 Dialogue: 0,1:29:52.29,1:29:55.01,English-480P,,0,0,0,,You'd have to be stupid not to see that.
 Dialogue: 0,1:29:59.72,1:30:01.09,Chinese-480P,,0,0,0,,我原谅你 Ravn
 Dialogue: 0,1:29:59.72,1:30:01.09,English-480P,,0,0,0,,I forgive you, Ravn.
@@ -2483,7 +2490,7 @@ Dialogue: 0,1:30:34.96,1:30:36.74,Chinese-480P,,0,0,0,,{\i1}你是要卖 还是�
 Dialogue: 0,1:30:34.96,1:30:36.74,English-480P,,0,0,0,,Are you going to sell, or what?
 Dialogue: 0,1:30:39.44,1:30:40.83,Chinese-480P,,0,0,0,,这有点难办
 Dialogue: 0,1:30:39.44,1:30:40.83,English-480P,,0,0,0,,That might be tricky.
-Dialogue: 0,1:30:41.60,1:30:46.21,Chinese-480P,,0,0,0,,Kristoffer怎么卖掉从来不属于他的东西呢
+Dialogue: 0,1:30:41.60,1:30:46.21,Chinese-480P,,0,0,0,,Kristoffer怎么能把从未属于他的东西卖掉呢
 Dialogue: 0,1:30:41.60,1:30:46.21,English-480P,,0,0,0,,How can Kristoffer sell what's never been his?
 Dialogue: 0,1:30:48.64,1:30:50.26,Chinese-480P,,0,0,0,,不 Sigurdsson先生
 Dialogue: 0,1:30:48.64,1:30:50.26,English-480P,,0,0,0,,No, Mr. Sigurdsson.
@@ -2495,7 +2502,7 @@ Dialogue: 0,1:30:55.29,1:30:57.21,Chinese-480P,,0,0,0,,比任何时候都团结
 Dialogue: 0,1:30:55.29,1:30:57.21,English-480P,,0,0,0,,more strongly united than ever.
 Dialogue: 0,1:30:59.95,1:31:04.44,Chinese-480P,,0,0,0,,等我纠正了过去的一些过错 会更团结
 Dialogue: 0,1:30:59.95,1:31:04.44,English-480P,,0,0,0,,And more so, when I've put right a few sins of the past.
-Dialogue: 0,1:31:04.52,1:31:07.62,Chinese-480P,,0,0,0,,我有些外移要检查
+Dialogue: 0,1:31:04.52,1:31:07.62,Chinese-480P,,0,0,0,,我有些外移要处理
 Dialogue: 0,1:31:04.52,1:31:07.62,English-480P,,0,0,0,,I have some offshoring to see to.
 Dialogue: 0,1:31:11.38,1:31:13.11,Chinese-480P,,0,0,0,,外包
 Dialogue: 0,1:31:11.38,1:31:13.11,English-480P,,0,0,0,,Outsourcing!
