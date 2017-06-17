@@ -17,30 +17,26 @@ Audio File: The.Boss.Of.It.All.2006.DVDRiP.480P.x264-Aikke.mp4
 Video File: The.Boss.Of.It.All.2006.DVDRiP.480P.x264-Aikke.mp4
 Video AR Mode: 4
 Video AR Value: 1.779167
-<<<<<<< Updated upstream
 Video Zoom Percent: 1.000000
-Scroll Position: 1658
-Active Line: 1635
-Video Position: 91859
-=======
-Video Zoom Percent: 0.500000
-Scroll Position: 2320
-Active Line: 2342
-Video Position: 153565
->>>>>>> Stashed changes
+Scroll Position: 1398
+Active Line: 1407
+Video Position: 85655
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Chinese-480P,方正黑体简体,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
+Style: Chinese-480P,方正黑体简体,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,5,1
 Style: English-480P,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
 Style: Annotation-480P,方正黑体简体,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,5,1
-Style: PostScript-480P,方正黑体简体,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,3,2,1,2,10,10,5,1
+Style: PostScript-480P,方正黑体简体,28,&H00FFDDE1,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0.5,0,5,10,10,5,1
 Style: Annotation-22-16-78,方正黑体简体,22,&H009F410E,&H000000FF,&H00875E40,&H00875C40,-1,-1,0,0,100,100,0,0,1,0,0,8,10,10,5,1
+Style: Banner-480P,方正黑体简体,28,&H28000000,&H00000000,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,3,0,0,5,0,0,0,1
+Style: Signature-480P,方正黑体简体,28,&H00DCD0BB,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,3,2,1,2,10,10,5,1
+Style: Title-480P,方正黑体简体,28,&H00E4C2C2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,5,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:27.44,0:00:32.64,Chinese-480P,,0,0,0,,真假老板
+Dialogue: 0,0:00:27.44,0:00:32.64,Title-480P,,0,0,0,,真假老板
 Dialogue: 0,0:00:27.44,0:00:32.64,English-480P,,0,0,0,,The Boss of It All
 Dialogue: 0,0:00:35.74,0:00:37.52,Chinese-480P,,0,0,0,,{\i1}下面这部电影{\i}
 Dialogue: 0,0:00:35.74,0:00:37.52,English-480P,,0,0,0,,{\i1}Here comes a movie{\i}
@@ -662,11 +658,12 @@ Dialogue: 0,0:21:58.45,0:22:06.43,Chinese-480P,,0,0,0,,比如说 有些技术和
 Dialogue: 0,0:21:58.45,0:22:06.43,English-480P,,0,0,0,,And, as such, certain technical and strategic measures seem most unclear.
 Dialogue: 0,0:22:13.60,0:22:15.82,Chinese-480P,,0,0,0,,事务级别 为什么不
 Dialogue: 0,0:22:13.60,0:22:15.82,English-480P,,0,0,0,,Transaction hierarchy... Why not?
-Dialogue: 0,0:22:16.78,0:22:20.08,Annotation-22-16-78,,0,0,0,,{\pos(196,160)}事务级别… 为什么不 ?!
-Dialogue: 0,0:22:16.78,0:22:20.08,Annotation-22-16-78,,0,0,0,,{\pos(186,234)}80-20原则 !
-Dialogue: 0,0:22:16.78,0:22:20.08,Annotation-22-16-78,,0,0,0,,{\pos(179,304)}敏捷开发
 Dialogue: 0,0:22:15.85,0:22:17.08,Chinese-480P,,0,0,0,,80-20原则
 Dialogue: 0,0:22:15.85,0:22:17.08,English-480P,,0,0,0,,The 80:20 rule.
+Dialogue: 0,0:22:16.78,0:22:20.08,Annotation-22-16-78,,0,0,0,,{\pos(200,155)}事务级别…
+Dialogue: 0,0:22:16.78,0:22:20.08,Annotation-22-16-78,,0,0,0,,{\pos(286,177)}为什么不?!
+Dialogue: 0,0:22:16.78,0:22:20.08,Annotation-22-16-78,,0,0,0,,{\pos(186,234)}80-20原则!
+Dialogue: 0,0:22:16.78,0:22:20.08,Annotation-22-16-78,,0,0,0,,{\pos(179,304)}敏捷开发
 Dialogue: 0,0:22:18.10,0:22:19.71,Chinese-480P,,0,0,0,,敏捷开发
 Dialogue: 0,0:22:18.10,0:22:19.71,English-480P,,0,0,0,,Agile development.
 Dialogue: 0,0:22:20.25,0:22:24.13,Chinese-480P,,0,0,0,,这只是些基本的东西
@@ -841,15 +838,16 @@ Dialogue: 0,0:28:16.57,0:28:17.62,Chinese-480P,,0,0,0,,到外面去
 Dialogue: 0,0:28:16.57,0:28:17.62,English-480P,,0,0,0,,All the way out.
 Dialogue: 0,0:28:18.91,0:28:21.11,Chinese-480P,,0,0,0,,所以你是属于
 Dialogue: 0,0:28:18.91,0:28:21.11,English-480P,,0,0,0,,So you are affiliated with...
-Dialogue: 0,0:28:21.22,0:28:24.22,Chinese-480P,,0,0,0,,某个帮派的
+Dialogue: 0,0:28:21.22,0:28:24.22,Chinese-480P,,0,0,0,,某个摩托车圈子的
 Dialogue: 0,0:28:21.22,0:28:24.22,English-480P,,0,0,0,,certain biker circles.
-Dialogue: 0,0:28:24.70,0:28:28.04,Chinese-480P,,0,0,0,,我还天真地以为
+Dialogue: 0,0:28:24.70,0:28:28.04,Chinese-480P,,0,0,0,,我要是天真点就会以为
 Dialogue: 0,0:28:24.70,0:28:28.04,English-480P,,0,0,0,,I would be naive to think
-Dialogue: 0,0:28:28.21,0:28:31.76,Chinese-480P,,0,0,0,,他们的把戏仅限于小店员中间
+Dialogue: 0,0:28:28.21,0:28:31.76,Chinese-480P,,0,0,0,,他们这种把戏仅限于小店员中间
 Dialogue: 0,0:28:28.21,0:28:31.76,English-480P,,0,0,0,,their racket is limited to small shopkeepers.
-Dialogue: 0,0:28:31.80,0:28:35.38,Chinese-480P,,0,0,0,,有"地狱游侠"给你们撑腰
+Dialogue: 0,0:28:31.80,0:28:36.73,Annotation-480P,,0,0,0,,地狱天使：40年代起源于美国的国际摩托车帮派
+Dialogue: 0,0:28:31.80,0:28:35.38,Chinese-480P,,0,0,0,,有{\i1}地狱天使{\i0} 给你们撑腰
 Dialogue: 0,0:28:31.80,0:28:35.38,English-480P,,0,0,0,,With the Hell's Angels up your sleeve,
-Dialogue: 0,0:28:35.43,0:28:38.99,Chinese-480P,,0,0,0,,就可以提要求了
+Dialogue: 0,0:28:35.43,0:28:38.99,Chinese-480P,,0,0,0,,你们的要求就可以换个提法了
 Dialogue: 0,0:28:35.43,0:28:38.99,English-480P,,0,0,0,,your demands require a different approach.
 Dialogue: 0,0:28:39.03,0:28:40.72,Chinese-480P,,0,0,0,,但是别声张
 Dialogue: 0,0:28:39.03,0:28:40.72,English-480P,,0,0,0,,But keep quiet about it.
@@ -867,7 +865,7 @@ Dialogue: 0,0:29:05.98,0:29:07.61,Chinese-480P,,0,0,0,,可以直说
 Dialogue: 0,0:29:05.98,0:29:07.61,English-480P,,0,0,0,,You can fess up.
 Dialogue: 0,0:29:08.81,0:29:11.46,Chinese-480P,,0,0,0,,我和大家谈过了
 Dialogue: 0,0:29:08.81,0:29:11.46,English-480P,,0,0,0,,I discussed it with the others.
-Dialogue: 0,0:29:12.85,0:29:14.82,Chinese-480P,,0,0,0,,我们觉得你的说服力成问题
+Dialogue: 0,0:29:12.85,0:29:14.82,Chinese-480P,,0,0,0,,我们觉得你的信服力成问题
 Dialogue: 0,0:29:12.85,0:29:14.82,English-480P,,0,0,0,,We think you have a credibility problem.
 Dialogue: 0,0:29:17.81,0:29:22.31,Chinese-480P,,0,0,0,,你的性格出卖了你
 Dialogue: 0,0:29:17.81,0:29:22.31,English-480P,,0,0,0,,Your personality gives you away.
@@ -885,11 +883,11 @@ Dialogue: 0,0:29:40.51,0:29:41.42,Chinese-480P,,0,0,0,,是
 Dialogue: 0,0:29:40.51,0:29:41.42,English-480P,,0,0,0,,Yes.
 Dialogue: 0,0:29:42.36,0:29:46.31,Chinese-480P,,0,0,0,,没什么差别 你太明显了
 Dialogue: 0,0:29:42.36,0:29:46.31,English-480P,,0,0,0,,It wouldn't change much. You're so transparent.
-Dialogue: 0,0:29:46.53,0:29:48.50,Chinese-480P,,0,0,0,,你的台词毫无说服力
+Dialogue: 0,0:29:46.53,0:29:48.50,Chinese-480P,,0,0,0,,你的台词毫无信服力
 Dialogue: 0,0:29:46.53,0:29:48.50,English-480P,,0,0,0,,All your lines really lack cred.
 Dialogue: 0,0:29:48.84,0:29:53.22,Chinese-480P,,0,0,0,,从头到尾演得都很烂
 Dialogue: 0,0:29:48.84,0:29:53.22,English-480P,,0,0,0,,It's lousy acting from start to finish.
-Dialogue: 0,0:29:56.66,0:29:59.11,Chinese-480P,,0,0,0,,- 我的台词没说服力 - 对
+Dialogue: 0,0:29:56.66,0:29:59.11,Chinese-480P,,0,0,0,,- 我的台词没信服力 - 对
 Dialogue: 0,0:29:56.66,0:29:59.11,English-480P,,0,0,0,,- My lines lack cred? - Yeah.
 Dialogue: 0,0:29:59.98,0:30:02.53,Chinese-480P,,0,0,0,,"你太过了"
 Dialogue: 0,0:29:59.98,0:30:02.53,English-480P,,0,0,0,,"You are too much!"
@@ -897,9 +895,9 @@ Dialogue: 0,0:30:02.54,0:30:05.30,Chinese-480P,,0,0,0,,还有 "演得很烂"
 Dialogue: 0,0:30:02.54,0:30:05.30,English-480P,,0,0,0,,Let's not forget "lousy acting."
 Dialogue: 0,0:30:05.30,0:30:08.81,Chinese-480P,,0,0,0,,那正是观众动容的时候
 Dialogue: 0,0:30:05.30,0:30:08.81,English-480P,,0,0,0,,That's when audiences are shook up.
-Dialogue: 0,0:30:08.89,0:30:12.78,Chinese-480P,,0,0,0,,他们难道不懂当今喜剧的重点
+Dialogue: 0,0:30:08.89,0:30:12.78,Chinese-480P,,0,0,0,,他们难道不懂当今喜剧的意义
 Dialogue: 0,0:30:08.89,0:30:12.78,English-480P,,0,0,0,,Don't they get that the point of comedy nowadays
-Dialogue: 0,0:30:12.81,0:30:15.91,Chinese-480P,,0,0,0,,正在于喜剧的揭穿吗
+Dialogue: 0,0:30:12.81,0:30:15.91,Chinese-480P,,0,0,0,,正是在于喜剧的揭穿吗
 Dialogue: 0,0:30:12.81,0:30:15.91,English-480P,,0,0,0,,is to reveal the comedy?
 Dialogue: 0,0:30:15.92,0:30:20.27,Chinese-480P,,0,0,0,,灾难已经发生 现在已经是灾后了
 Dialogue: 0,0:30:15.92,0:30:20.27,English-480P,,0,0,0,,Disaster has already struck. It's all in the aftermath.
@@ -907,7 +905,7 @@ Dialogue: 0,0:30:20.30,0:30:23.42,Chinese-480P,,0,0,0,,人们只想要可信 想
 Dialogue: 0,0:30:20.30,0:30:23.42,English-480P,,0,0,0,,People just want things to be credible and natural.
 Dialogue: 0,0:30:23.43,0:30:25.97,Chinese-480P,,0,0,0,,饶了我吧
 Dialogue: 0,0:30:23.43,0:30:25.97,English-480P,,0,0,0,,Give me a fucking break!
-Dialogue: 0,0:30:25.98,0:30:27.64,Chinese-480P,,0,0,0,,你的说服力有问题
+Dialogue: 0,0:30:25.98,0:30:27.64,Chinese-480P,,0,0,0,,你的信服力有问题
 Dialogue: 0,0:30:25.98,0:30:27.64,English-480P,,0,0,0,,You have a credibility problem.
 Dialogue: 0,0:30:27.65,0:30:29.07,Chinese-480P,,0,0,0,,不 我没有
 Dialogue: 0,0:30:27.65,0:30:29.07,English-480P,,0,0,0,,No, I don't.
@@ -931,7 +929,7 @@ Dialogue: 0,0:30:59.39,0:31:01.45,Chinese-480P,,0,0,0,,还有"管理"
 Dialogue: 0,0:30:59.39,0:31:01.45,English-480P,,0,0,0,,management...
 Dialogue: 0,0:31:01.48,0:31:03.34,Chinese-480P,,0,0,0,,对了 "人力资源"
 Dialogue: 0,0:31:01.48,0:31:03.34,English-480P,,0,0,0,,and even Human Resources.
-Dialogue: 0,0:31:03.35,0:31:04.40,Chinese-480P,,0,0,0,,"地狱游侠"
+Dialogue: 0,0:31:03.35,0:31:04.40,Chinese-480P,,0,0,0,,"地狱天使"
 Dialogue: 0,0:31:03.35,0:31:04.40,English-480P,,0,0,0,,Hell's Angels.
 Dialogue: 0,0:31:04.43,0:31:05.34,Chinese-480P,,0,0,0,,拜托
 Dialogue: 0,0:31:04.43,0:31:05.34,English-480P,,0,0,0,,Honestly!
@@ -1051,7 +1049,7 @@ Dialogue: 0,0:34:24.17,0:34:25.58,Chinese-480P,,0,0,0,,- 说"是" - 说"是"
 Dialogue: 0,0:34:24.17,0:34:25.58,English-480P,,0,0,0,,- Say yes? - Say yes!
 Dialogue: 0,0:34:26.28,0:34:28.95,Chinese-480P,,0,0,0,,但那是即兴剧
 Dialogue: 0,0:34:26.28,0:34:28.95,English-480P,,0,0,0,,But that's improvisational theater.
-Dialogue: 0,0:34:29.63,0:34:36.28,Chinese-480P,,0,0,0,,好比有个混蛋突发奇想 要穿裙子
+Dialogue: 0,0:34:29.63,0:34:36.28,Chinese-480P,,0,0,0,,好比有个混蛋突发奇想 想穿上裙子
 Dialogue: 0,0:34:29.63,0:34:36.28,English-480P,,0,0,0,,Like when some jackass gets it into his head he should put on a dress,
 Dialogue: 0,0:34:36.28,0:34:39.70,Chinese-480P,,0,0,0,,我们也得鼓掌
 Dialogue: 0,0:34:36.28,0:34:39.70,English-480P,,0,0,0,,and we all have to applaud it.
@@ -1443,9 +1441,9 @@ Dialogue: 0,0:47:27.17,0:47:29.12,Chinese-480P,,0,0,0,,你有高兴过吗
 Dialogue: 0,0:47:27.17,0:47:29.12,English-480P,,0,0,0,,Were you ever happy?
 Dialogue: 0,0:47:29.12,0:47:33.79,Chinese-480P,,0,0,0,,有 对着那个甘比尼流口水的时候
 Dialogue: 0,0:47:29.12,0:47:33.79,English-480P,,0,0,0,,Yes, when drooling over that Gambini jerk.
-Dialogue: 0,0:47:33.83,0:47:38.01,Chinese-480P,,0,0,0,,一个谁也没听说过的骗子
+Dialogue: 0,0:47:33.83,0:47:38.01,Chinese-480P,,0,0,0,,一个谁也没听说过的骗局
 Dialogue: 0,0:47:33.83,0:47:38.01,English-480P,,0,0,0,,A hoax nobody's ever heard of.
-Dialogue: 0,0:47:38.02,0:47:42.87,Chinese-480P,,0,0,0,,伟大的骗子 在甘比尼那儿 灾难已经发生了
+Dialogue: 0,0:47:38.02,0:47:42.87,Chinese-480P,,0,0,0,,神话般的骗局 在甘比尼那儿 灾难已经发生了
 Dialogue: 0,0:47:38.02,0:47:42.87,English-480P,,0,0,0,,A hoax in seven-league boots. With Gambini, disaster has already struck.
 Dialogue: 0,0:47:42.87,0:47:50.04,Chinese-480P,,0,0,0,,单幕剧 三个小时 "烟囱工的独白"
 Dialogue: 0,0:47:42.87,0:47:50.04,English-480P,,0,0,0,,A one-act play, three hours long! {\i1}The Chimney Sweep's Monologue{\i}!
@@ -2382,9 +2380,9 @@ Dialogue: 0,1:25:19.80,1:25:21.51,Chinese-480P,,0,0,0,,而我们彼此
 Dialogue: 0,1:25:19.80,1:25:21.51,English-480P,,0,0,0,,and the two of us,
 Dialogue: 0,1:25:21.96,1:25:23.93,Chinese-480P,,0,0,0,,这三者
 Dialogue: 0,1:25:21.96,1:25:23.93,English-480P,,0,0,0,,these three people
-Dialogue: 0,1:25:23.93,1:25:26.50,Chinese-480P,,0,0,0,,徒留一段传奇
+Dialogue: 0,1:25:23.93,1:25:26.50,Chinese-480P,,0,0,0,,不过一段传奇
 Dialogue: 0,1:25:23.93,1:25:26.50,English-480P,,0,0,0,,are but a saga.
-Dialogue: 0,1:25:32.10,1:25:34.73,Chinese-480P,,0,0,0,,你 这个人曾是我的生命
+Dialogue: 0,1:25:32.10,1:25:34.73,Chinese-480P,,0,0,0,,你 曾是我的生命的那人
 Dialogue: 0,1:25:32.10,1:25:34.73,English-480P,,0,0,0,,You, who were once my very life,
 Dialogue: 0,1:25:36.71,1:25:38.59,Chinese-480P,,0,0,0,,而我 对你也曾如此
 Dialogue: 0,1:25:36.71,1:25:38.59,English-480P,,0,0,0,,and I, who was once yours,
@@ -2624,7 +2622,7 @@ Dialogue: 0,1:35:05.81,1:35:10.96,Chinese-480P,,0,0,0,,你得把你的素材变�
 Dialogue: 0,1:35:05.81,1:35:10.96,English-480P,,0,0,0,,You have to breathe life into your material.
 Dialogue: 0,1:35:10.96,1:35:15.44,Chinese-480P,,0,0,0,,你的角色的道德观是什么
 Dialogue: 0,1:35:10.96,1:35:15.44,English-480P,,0,0,0,,What are your character's moral values?
-Dialogue: 0,1:35:15.48,1:35:16.65,Chinese-480P,,0,0,0,,太迷人了
+Dialogue: 0,1:35:15.48,1:35:16.65,Chinese-480P,,0,0,0,,真是迷人
 Dialogue: 0,1:35:15.48,1:35:16.65,English-480P,,0,0,0,,It's fascinating.
 Dialogue: 0,1:35:21.82,1:35:25.31,Chinese-480P,,0,0,0,,让我实话实说
 Dialogue: 0,1:35:21.82,1:35:25.31,English-480P,,0,0,0,,And let me be completely frank...
@@ -2644,7 +2642,7 @@ Dialogue: 0,1:36:03.23,1:36:07.18,Chinese-480P,,0,0,0,,想方设法偏向了Ravn
 Dialogue: 0,1:36:03.23,1:36:07.18,English-480P,,0,0,0,,just managed to sway in favor of Ravn and his staff.
 Dialogue: 0,1:36:12.23,1:36:14.27,Chinese-480P,,0,0,0,,{\i1}你们该死该死该死的丹麦佬{\i0}
 Dialogue: 0,1:36:12.23,1:36:14.27,English-480P,,0,0,0,,You shitty, shitty, shit-faced Danes.
-Dialogue: 0,1:36:16.53,1:36:18.22,Chinese-480P,,0,0,0,,{\i1}你们该死的唠叨{\i0}
+Dialogue: 0,1:36:16.53,1:36:18.22,Chinese-480P,,0,0,0,,{\i1}你们那些该死的唠叨{\i0}
 Dialogue: 0,1:36:16.53,1:36:18.22,English-480P,,0,0,0,,With all your damned chatter.
 Dialogue: 0,1:36:18.22,1:36:22.04,Chinese-480P,,0,0,0,,{\i1}你们折磨了我们400年{\i0}
 Dialogue: 0,1:36:18.22,1:36:22.04,English-480P,,0,0,0,,You gave us 400 years of torment.
@@ -2678,7 +2676,7 @@ Dialogue: 0,1:38:34.48,1:38:37.02,Chinese-480P,,0,0,0,,烟囱工的独白
 Dialogue: 0,1:38:34.48,1:38:37.02,English-480P,,0,0,0,,The chimney sweep's monologue.
 Dialogue: 0,1:38:43.80,1:38:47.89,Chinese-480P,,0,0,0,,{\i1}就这样我们到达了 就在濒临放弃之时{\i}
 Dialogue: 0,1:38:43.80,1:38:47.89,English-480P,,0,0,0,,{\i1}And so we reached,{\i} {\i1}on the verge of giving up.{\i}
-Dialogue: 0,1:38:47.89,1:38:50.43,Chinese-480P,,0,0,0,,{\i1}到达了我们的喜剧的结尾{\i}
+Dialogue: 0,1:38:47.89,1:38:50.43,Chinese-480P,,0,0,0,,{\i1}到达了我们这喜剧的结尾{\i}
 Dialogue: 0,1:38:47.89,1:38:50.43,English-480P,,0,0,0,,{\i1}the end of our comedy.{\i}
 Dialogue: 0,1:38:50.63,1:38:55.48,Chinese-480P,,0,0,0,,{\i1}和你一样 我想回家{\i}
 Dialogue: 0,1:38:50.63,1:38:55.48,English-480P,,0,0,0,,{\i1}Like you. I would like to get home,{\i}
@@ -2690,4 +2688,9 @@ Dialogue: 0,1:39:00.83,1:39:03.32,Chinese-480P,,0,0,0,,{\i1}那些得其所想�
 Dialogue: 0,1:39:00.83,1:39:03.32,English-480P,,0,0,0,,{\i1}Those who got what they came for,{\i}
 Dialogue: 0,1:39:03.32,1:39:04.80,Chinese-480P,,0,0,0,,{\i1}活该{\i}
 Dialogue: 0,1:39:03.32,1:39:04.80,English-480P,,0,0,0,,{\i1}deserve it.{\i}
-Dialogue: 0,1:39:46.66,1:39:52.90,PostScript-480P,,0,0,0,,字幕译校&压制 @舌尖要越舔越形而上
+Dialogue: 1,1:39:10.06,1:39:25.61,PostScript-480P,,0,0,0,,{\pos(440,240)}本片的拍摄采用了一种拉斯冯提尔自己发明的技术\N称作"自动影像捕捉(Automavision)"\N摄影机首先被摆放在指定的机位，朝向演员\N由电脑生成随机的调整参数：平移-倾斜-变焦-停止\N然后开始拍摄，并对每个分镜重新生成参数
+Dialogue: 0,1:39:10.06,1:39:37.05,Banner-480P,,0,0,0,,{\p1}m 0 0 l 0 180 l 854 180 l 854 0
+Dialogue: 1,1:39:25.61,1:39:37.05,PostScript-480P,,0,0,0,,{\pos(440,240)}曾有两个镜头由拉斯自己掌镜\N碍于规则最终没有剪进去\N其中一个是拍摄哥本哈根动物园的大象\N对拉斯的规则、"Automavision"或者走位记号\N大象毫无兴趣
+Dialogue: 0,1:39:37.05,1:39:43.49,Banner-480P,,0,0,0,,{\p1}m 0 0 l 0 70 l 854 70 l 854 0
+Dialogue: 1,1:39:37.05,1:39:43.49,PostScript-480P,,0,0,0,,{\pos(440,240)}当然，"甘比尼"纯属杜撰
+Dialogue: 0,1:39:46.66,1:39:52.90,Signature-480P,,0,0,0,,字幕译校&压制 @舌尖要越舔越形而上
